@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Ben's Computer Programming Portfolio
 
 You can use the [editor on GitHub](https://github.com/bl8888/Computerprogrammingportfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
